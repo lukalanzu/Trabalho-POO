@@ -1,3 +1,7 @@
+Anna Lucia Moro Lanzuolo 13864436
+Isabela Guarnier De Mitri 13862264
+Nina Ribeiro Silveira 13686751
+
 Requisitos para o Sistema de Ponto de Venda Java Café
 Requisitos Funcionais
 Os requisitos funcionais definidos para o sistema "Java Café" incluem a implementação de uma interface gráfica de usuário (GUI) intuitiva, funcionalidades de processamento de pedidos e gestão de inventário, relatórios de vendas detalhados, tratamento de exceções personalizadas, armazenamento persistente de dados e uma documentação abrangente.
